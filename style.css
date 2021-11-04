@@ -1,0 +1,18 @@
+td{
+    background-color: green;
+    border-bottom-color: blue;
+    text-align: center;
+    table-layout: auto;
+}
+
+
+th{
+    background-color: green;
+    text-align: center;
+    text-decoration: overline;
+}
+
+h3{
+    text-align:inherit;
+    
+}
